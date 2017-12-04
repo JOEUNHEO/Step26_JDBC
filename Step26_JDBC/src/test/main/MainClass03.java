@@ -24,7 +24,7 @@ public class MainClass03 {
 		// 1번 회원의 정보를 수정해 보세요.
 		int num = 1;
 		String addr = "종로";
-		
+				
 		//필요한 객체를 담을 변수 만들기
 		PreparedStatement pstmt = null;
 		try {
